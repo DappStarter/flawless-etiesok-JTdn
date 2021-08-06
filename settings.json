@@ -1,0 +1,17 @@
+{
+    "name": "MOTHER10",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "mother10",
+        "/category/asset_value_tracking/core-token/symbol": "MOTH",
+        "/category/asset_value_tracking/core-token/decimals": "4",
+        "/category/asset_value_tracking/core-token/supply": "1000000000",
+        "/category/collection/core-entity": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder"
+    }
+}
